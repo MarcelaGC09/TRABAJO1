@@ -1,0 +1,2 @@
+func colores (1 int, 2 int, 3 int) int }
+return 1+2+3
